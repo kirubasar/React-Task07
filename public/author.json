@@ -1,0 +1,24 @@
+[
+    {   
+        "id":1,
+        "name":"Allen, Robert",
+        "title":"THE MYSTICAL BENCH",
+        "birth":"20-05-1948",
+        "biography":"Robert Allen is a retired physicist who resided in southern Arizona"
+    },
+    {   
+        "id":2,
+        "name":"Hocker, Mike",
+        "title":"SAVE THE BATTERIES",
+        "birth":"27-08-1949",
+        "biography":"Retired graphic arts and state byway director excercises his talents in telling stories of his past."
+    },
+    {   
+        "id":3,
+        "name":"Muse, David",
+        "title":"THE BOSS FAMILY",
+        "birth":"05-03-1980",
+        "biography":"He is a retired physicist who resided in southern Arizona"
+    }
+]
+

@@ -1,0 +1,26 @@
+[
+    {
+    "id":1,
+    "title":"THE MYSTICAL BENCH",
+    "author":"Allen, Robert",
+    "ISBN":"978-1-7923-8589-6",
+    "published":"12-04-2003"
+
+},
+{
+
+    "id":2,
+    "title":"SAVE THE BATTERIES",
+    "author":"Hocker, Mike",
+    "ISBN":"979-8-3507-3461-4",
+    "published":"6-01-2017"
+},
+{
+
+    "id":3,
+    "title":"THE BOSS FAMILY",
+    "author":"Muse, David",
+    "ISBN":"979-8-3507-3459-1",
+    "published":"3-11-2006"
+}
+ ]
